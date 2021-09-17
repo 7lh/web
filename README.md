@@ -8,8 +8,7 @@
 ## mathjax
 ## es5
 ## hls.js
-## etc
-## vue
+## eth
 ## js-cookie
 ## fancybox
 ## emojione
@@ -20,9 +19,20 @@
 ## cookieconsent
 ## algoliasearch
 ## clipboard
-## vuex
 ## font-awesome
 ## yakuhanjp
 ## clappr
-## axios
-## 
+## select2
+## flag-icon-css
+## mobile-detect
+## videojs-errors
+## lozad
+## venom-player
+## gsap
+## jquery-validation
+## p2p-media-loader-core
+## cdnbye
+## bxslider
+## @fingerprintjs/fingerprintjs
+## dplayer
+## rrweb
