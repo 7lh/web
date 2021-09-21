@@ -36,3 +36,14 @@
 ## @fingerprintjs/fingerprintjs
 ## dplayer
 ## rrweb
+## video.js
+## magnific-popup
+## iamcal/emoji-data
+## zepto
+## moment
+## ua-parser-js
+## Semantic
+## videojs-contrib-ads
+## @splidejs/splide
+## katex
+## mescroll.js
