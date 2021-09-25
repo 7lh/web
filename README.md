@@ -49,3 +49,10 @@
 ## mescroll.js
 ## videojs-vtt.js
 ## videojs-ima
+## lazyload
+## flatpickr
+## clappr/clappr-level-selector-plugin
+## sidr
+## bootstrap-select
+## eruda
+## lazysizes
