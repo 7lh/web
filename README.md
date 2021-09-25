@@ -47,3 +47,5 @@
 ## @splidejs/splide
 ## katex
 ## mescroll.js
+## videojs-vtt.js
+## videojs-ima
